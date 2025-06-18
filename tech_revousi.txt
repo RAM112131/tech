@@ -1,2 +1,3 @@
 belajar kerja dengan github
-- menambahkan dan mengedit file
+- menghapus isi file
+- merancang rencana pembelajarannya
