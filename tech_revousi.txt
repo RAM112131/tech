@@ -1,1 +1,2 @@
 belajar kerja dengan github
+- menambahkan dan mengedit file
