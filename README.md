@@ -1,1 +1,1 @@
-# tech
+# latihan dalam penggunaan github
